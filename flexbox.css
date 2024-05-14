@@ -24,8 +24,9 @@ img{
     background-color: tomato;
 }
 .newyork{
-    font-size: large;
+    font-size:22px;
     position: absolute;
+    margin-left: 100px;
     top: 255px;
     color: white;
 }
